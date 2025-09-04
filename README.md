@@ -442,9 +442,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support and questions:
 
-- 📧 Email: support@yourcompany.com
-- 💬 Slack: [Your Slack Channel]
-- 📖 Documentation: [Your Docs Site]
+- 📧 Gmail: hayagreevar9018@gmail.com
 - 🐛 Issues: [GitHub Issues](https://github.com/your-username/intelligent-document-processing/issues)
 
 ---
