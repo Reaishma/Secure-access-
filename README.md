@@ -5,14 +5,11 @@
   **View Webpage on** https://reaishma.github.io/Secure-access-/
 
 
-## **Secure Access (Intelligent Document processing system)** 
-check out here
-![Intelligent Document processing system](https://github.com/Reaishma/Secure-access-/blob/main/Screenshot_20250903-144525_1.jpg)
-
-
 ## Overview 
 
 A comprehensive cloud-based document processing system that leverages machine learning, OCR, NLP, and cloud services to extract, analyze, and classify documents with high accuracy.
+
+![Intelligent Document processing system](https://github.com/Reaishma/Secure-access-/blob/main/Screenshot_20250903-144525_1.jpg)
 
 ## 🌟 Features
 
