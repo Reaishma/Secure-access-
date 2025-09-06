@@ -11,6 +11,10 @@ A comprehensive cloud-based document processing system that leverages machine le
 
 ![Intelligent Document processing system](https://github.com/Reaishma/Secure-access-/blob/main/Screenshot_20250903-144525_1.jpg)
 
+## Developer🧑‍💻
+
+**Reaishma N**
+
 ## 🌟 Features
 
 ### 🔍 Document Processing
@@ -440,7 +444,7 @@ This project is licensed under the                    GNU GENERAL PUBLIC LICENSE
 For support and questions:
 
 - 📧 Gmail: hayagreevar9018@gmail.com
-- 🐛 Issues: [GitHub Issues](https://github.com/your-username/intelligent-document-processing/issues)
+- 🐛 Issues: [GitHub Issues](https://github.com/reaishma/Secure-access-/issues)
 
 ---
 
